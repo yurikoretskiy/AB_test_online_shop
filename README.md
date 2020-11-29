@@ -20,12 +20,11 @@ Visits:
 
 ## Libraries used:
 
-pandas
-datetime
-numpy
+pandas,
+datetime,
+numpy,
 
-matplotlib
-seaborn
-squarify
+matplotlib,
+seaborn,
 
 scipy
