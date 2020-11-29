@@ -11,6 +11,7 @@ Orders:
 - *date* — of the order
 - *revenue* — from the order
 - *group* — the A/B test group that the user belongs to
+
 Visits:
 - *date* — date
 - *group* — A/B test group
